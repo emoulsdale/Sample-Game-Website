@@ -1,0 +1,12 @@
+p {
+    font-size: 100;
+  }
+#right {
+  display: none;
+}
+#main:hover #right {
+  display: block
+}
+#main:hover #left {
+  display: none;
+}
